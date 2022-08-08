@@ -1,3 +1,6 @@
 **/.exercism/
-**/HELP.md
+**/*.cabal
 **/HINTS.md
+
+**/stack.yaml.lock
+**/.stack-work/
