@@ -2,6 +2,6 @@
 
 ## Exercise List
 
-- [Hello World](hello-world/README.md)
-- [Lucian's Luscious Lasagna](lucians-luscious-lasagna/README.md)
-- [Temperature](temperature/README.md)
+- [Hello World](hello-world/)
+- [Lucian's Luscious Lasagna](lucians-luscious-lasagna/)
+- [Temperature](temperature/)
