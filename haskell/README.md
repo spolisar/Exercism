@@ -6,3 +6,4 @@
 - [Lucian's Luscious Lasagna](lucians-luscious-lasagna/)
 - [Temperature](temperature/)
 - [Leap (Easy)](leap/)
+- [Space Age (Easy)](space-age)
