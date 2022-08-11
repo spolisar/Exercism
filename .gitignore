@@ -1,6 +1,7 @@
 **/.exercism/
-**/*.cabal
 **/HINTS.md
 
+#haskell
+**/*.cabal
 **/stack.yaml.lock
 **/.stack-work/
