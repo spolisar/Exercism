@@ -8,3 +8,4 @@
 - [Leap (Easy)](leap/)
 - [Space Age (Easy)](space-age/)
 - [Pangram (Easy)](pangram/)
+- [Bob (Easy)](bob/)
