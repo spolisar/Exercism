@@ -6,5 +6,9 @@
 **/stack.yaml.lock
 **/.stack-work/
 
+#python
+**/__pycache__/
+**/.pytest_cache/
+
 #tools
 tools/geckodriver.log
