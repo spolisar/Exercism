@@ -5,3 +5,6 @@
 **/*.cabal
 **/stack.yaml.lock
 **/.stack-work/
+
+#tools
+tools/geckodriver.log
