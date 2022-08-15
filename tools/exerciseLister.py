@@ -52,6 +52,8 @@ def main(track):
     
     #write results to file
     # f = open("out.md", "w")
+    print("# Exercism Exercises in " + track)
+    print("## Exercise List")
     for ex in exerciseList:
         # f.write(str(ex) + "\n")
         print(str(ex))
