@@ -2,9 +2,11 @@
 
 ## Exercise List
 
+### Completed
 - [Hello World (None)](hello-world/)
 - [Guido's Gorgeous Lasagna (None)](guidos-gorgeous-lasagna/)
 - [Ghost Gobble Arcade Game (None)](https://exercism.org/tracks/python/exercises/ghost-gobble-arcade-game)
+### Not Completed
 - [Currency Exchange (None)](https://exercism.org/tracks/python/exercises/currency-exchange)
 - [Meltdown Mitigation (None)](https://exercism.org/tracks/python/exercises/meltdown-mitigation)
 - [Black Jack (None)](https://exercism.org/tracks/python/exercises/black-jack)
