@@ -11,7 +11,7 @@
 - [Pangram (Easy)](pangram/)
 - [Bob (Easy)](bob/)
 - [Collatz Conjecture (Easy)](collatz-conjecture/)
-- [RNA Transcription (Easy)](https://exercism.org/tracks/haskell/exercises/rna-transcription)
+- [RNA Transcription (Easy)](rna-transcription/)
 ### Not Completed
 - [Nucleotide Count (Easy)](https://exercism.org/tracks/haskell/exercises/nucleotide-count)
 - [Sum Of Multiples (Easy)](https://exercism.org/tracks/haskell/exercises/sum-of-multiples)
