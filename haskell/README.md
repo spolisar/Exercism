@@ -2,6 +2,7 @@
 
 ## Exercise List
 
+### Completed
 - [Hello World](hello-world/)
 - [Lucian's Luscious Lasagna](lucians-luscious-lasagna/)
 - [Temperature](temperature/)
@@ -11,6 +12,7 @@
 - [Bob (Easy)](bob/)
 - [Collatz Conjecture (Easy)](collatz-conjecture/)
 - [RNA Transcription (Easy)](https://exercism.org/tracks/haskell/exercises/rna-transcription)
+### Not Completed
 - [Nucleotide Count (Easy)](https://exercism.org/tracks/haskell/exercises/nucleotide-count)
 - [Sum Of Multiples (Easy)](https://exercism.org/tracks/haskell/exercises/sum-of-multiples)
 - [Grains (Easy)](https://exercism.org/tracks/haskell/exercises/grains)
