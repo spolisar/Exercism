@@ -3,15 +3,15 @@
 ## Exercise List
 
 ### Completed
-- [Hello World (None)](https://exercism.org/tracks/java/exercises/hello-world)
-- [Cook your lasagna (None)](https://exercism.org/tracks/java/exercises/lasagna)
-- [Annalyn's Infiltration (None)](https://exercism.org/tracks/java/exercises/annalyns-infiltration)
+- [Hello World (None)](hello-world/)
+- [Cook your lasagna (None)](lasagna/)
+- [Annalyn's Infiltration (None)](annalyns-infiltration/)
+- [Play Your Cards! (None)](blackjack/)
 ### Not Completed
 - [Bird Watcher (None)](https://exercism.org/tracks/java/exercises/bird-watcher)
 - [Karl's Languages (None)](https://exercism.org/tracks/java/exercises/karls-languages)
 - [Squeaky Clean (None)](https://exercism.org/tracks/java/exercises/squeaky-clean)
 - [Elon's Toy Car (None)](https://exercism.org/tracks/java/exercises/elons-toy-car)
-- [Play Your Cards! (None)](https://exercism.org/tracks/java/exercises/blackjack)
 - [Need for Speed (None)](https://exercism.org/tracks/java/exercises/need-for-speed)
 - [Remote Control Competition (None)](https://exercism.org/tracks/java/exercises/remote-control-competition)
 - [Cars, Assemble! (None)](https://exercism.org/tracks/java/exercises/cars-assemble)
