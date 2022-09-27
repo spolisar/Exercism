@@ -5,8 +5,8 @@
 ### Completed
 - [Hello World (None)](hello-world/)
 - [Lasagna (None)](lasagna/)
+- [Amusement Park (None)](amusement-park/)
 ### Not Completed
-- [Amusement Park (None)](https://exercism.org/tracks/ruby/exercises/amusement-park)
 - [Amusement Park Improvements (None)](https://exercism.org/tracks/ruby/exercises/amusement-park-improvements)
 - [Log line Parser (None)](https://exercism.org/tracks/ruby/exercises/log-line-parser)
 - [Assembly Line (None)](https://exercism.org/tracks/ruby/exercises/assembly-line)
