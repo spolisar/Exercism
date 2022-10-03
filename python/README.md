@@ -6,8 +6,8 @@
 - [Hello World (None)](hello-world/)
 - [Guido's Gorgeous Lasagna (None)](guidos-gorgeous-lasagna/)
 - [Ghost Gobble Arcade Game (None)](ghost-gobble-arcade-game/)
+- [Currency Exchange (None)](currency-exchange/)
 ### Not Completed
-- [Currency Exchange (None)](https://exercism.org/tracks/python/exercises/currency-exchange)
 - [Meltdown Mitigation (None)](https://exercism.org/tracks/python/exercises/meltdown-mitigation)
 - [Black Jack (None)](https://exercism.org/tracks/python/exercises/black-jack)
 - [Little Sister's Essay (None)](https://exercism.org/tracks/python/exercises/little-sisters-essay)
