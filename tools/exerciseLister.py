@@ -15,7 +15,7 @@ class exercise:
 def main(track):
     # print("not implemented yet")
     firefoxOption = webdriver.FirefoxOptions()
-    firefoxOption.headless = True
+    firefoxOption.add_argument('-headless')
     # firefoxOption.set_headless()
     driver = webdriver.Firefox(options=firefoxOption)
     #try, catch would be good for handling invalid tracknames
