@@ -7,9 +7,9 @@
 - [Gopher's Gorgeous Lasagna (None)](lasagna/)
 - [Weather Forecast (None)](weather-forecast/)
 - [Cars Assemble (None)](cars-assemble/)
+- [Annalyn's Infiltration (None)](annalyns-infiltration/)
 
 ### Not Completed
-- [Annalyn's Infiltration (None)](https://exercism.org/tracks/go/exercises/annalyns-infiltration)
 - [Party Robot (None)](https://exercism.org/tracks/go/exercises/party-robot)
 - [Blackjack (None)](https://exercism.org/tracks/go/exercises/blackjack)
 - [Booking up for Beauty (None)](https://exercism.org/tracks/go/exercises/booking-up-for-beauty)
