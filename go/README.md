@@ -6,13 +6,13 @@
 - [Hello World (None)](hello-world/)
 - [Gopher's Gorgeous Lasagna (None)](lasagna/)
 - [Weather Forecast (None)](weather-forecast/)
+- [Cars Assemble (None)](cars-assemble/)
 
 ### Not Completed
 - [Annalyn's Infiltration (None)](https://exercism.org/tracks/go/exercises/annalyns-infiltration)
 - [Party Robot (None)](https://exercism.org/tracks/go/exercises/party-robot)
 - [Blackjack (None)](https://exercism.org/tracks/go/exercises/blackjack)
 - [Booking up for Beauty (None)](https://exercism.org/tracks/go/exercises/booking-up-for-beauty)
-- [Cars Assemble (None)](https://exercism.org/tracks/go/exercises/cars-assemble)
 - [Vehicle Purchase (None)](https://exercism.org/tracks/go/exercises/vehicle-purchase)
 - [Gross Store (None)](https://exercism.org/tracks/go/exercises/gross-store)
 - [Lasagna Master (None)](https://exercism.org/tracks/go/exercises/lasagna-master)
