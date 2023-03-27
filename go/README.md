@@ -8,6 +8,7 @@
 - [Weather Forecast (None)](weather-forecast/)
 - [Cars Assemble (None)](cars-assemble/)
 - [Annalyn's Infiltration (None)](annalyns-infiltration/)
+- [Welcome To Tech Palace! (None)](welcome-to-tech-palace/)
 
 ### Not Completed
 - [Party Robot (None)](https://exercism.org/tracks/go/exercises/party-robot)
@@ -26,7 +27,6 @@
 - [Airport Robot (None)](https://exercism.org/tracks/go/exercises/airport-robot)
 - [The Farm (None)](https://exercism.org/tracks/go/exercises/the-farm)
 - [Census (None)](https://exercism.org/tracks/go/exercises/census)
-- [Welcome To Tech Palace! (None)](https://exercism.org/tracks/go/exercises/welcome-to-tech-palace)
 - [Election Day (None)](https://exercism.org/tracks/go/exercises/election-day)
 - [Interest is Interesting (None)](https://exercism.org/tracks/go/exercises/interest-is-interesting)
 - [Expenses (None)](https://exercism.org/tracks/go/exercises/expenses)
